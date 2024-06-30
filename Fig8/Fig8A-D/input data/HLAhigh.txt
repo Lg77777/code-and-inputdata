@@ -1,0 +1,6 @@
+HLA-A
+HLA-B
+HLA-C
+HLA-F
+HLA-G
+HLA-H
